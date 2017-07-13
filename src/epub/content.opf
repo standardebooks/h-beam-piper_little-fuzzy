@@ -21,10 +21,10 @@
 		<meta property="file-as" refines="#title">Little Fuzzy</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Human-alien encounters -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://id.loc.gov/authorities/subjects/sh85118629.html</meta>
-		<meta property="meta-auth" refines="#subject-2">http://id.loc.gov/authorities/classification/cf96404606.html</meta>
-		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">On a planet being exploited for its resources, the discovery of a possibly-sentient native species creates conflict.</dc:description>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/18137</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/18137</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">On a planet being exploited for its resources, the discovery of a possibly-sentient native species creates consternation and conflict.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Little Fuzzy&lt;/i&gt; is a science fiction novel set on the planet Zarathustra, a world rich in natural resources being exploited by a huge chartered company from Earth. Jack Holloway is a free-lance sunstone miner working on the outskirts of civilization when he encounters a small, fuzzy animal which turns out to be remarkably intelligent. He soon begins to suspect that “Little Fuzzy” and his family are more than just clever animals, but in fact a new sapient alien species. Such a proposition is directly opposed to the interests of the chartered Zarathustra Company, and conflict ensues.&lt;/p&gt;
