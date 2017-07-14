@@ -5,3 +5,7 @@ b {
 	font-weight: normal;
 	font-variant: small-caps;
 }
+
+abbr.initialism { white-space: nowrap; }
+abbr.degree { white-space: nowrap; }
+abbr.era { white-space: nowrap; }
