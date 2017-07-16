@@ -6,6 +6,6 @@ b {
 	font-variant: small-caps;
 }
 
-abbr.initialism { white-space: nowrap; }
-abbr.degree { white-space: nowrap; }
-abbr.era { white-space: nowrap; }
+abbr.era {
+	font-variant: all-small-caps;
+}
