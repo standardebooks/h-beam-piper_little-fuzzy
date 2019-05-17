@@ -26,21 +26,21 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Little Fuzzy</dc:title>
 		<meta property="file-as" refines="#title">Little Fuzzy</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Human-alien encounters -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/18137</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/18137</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008105650</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">On a planet being exploited for its resources, the discovery of a possibly-sentient native species creates consternation and conflict.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Little Fuzzy&lt;/i&gt; is a science fiction novel set on the planet Zarathustra, a world rich in natural resources being exploited by a huge chartered company from Earth. Jack Holloway is a free-lance sunstone miner working on the outskirts of civilization when he encounters a small, fuzzy animal which turns out to be remarkably intelligent. He soon begins to suspect that “Little Fuzzy” and his family are more than just clever animals, but in fact a new sapient alien species. Such a proposition is directly opposed to the interests of the chartered Zarathustra Company, and conflict ensues.&lt;/p&gt;
 			&lt;p&gt;Published in 1962, &lt;i&gt;Little Fuzzy&lt;/i&gt; rapidly gained popularity due to the charming nature of the little aliens and the well-handled tensions of the plot. It is today considered to be a classic of the genre, though perhaps considered to fall into the category of juvenile fiction. It was followed by a sequel, &lt;i&gt;Fuzzy Sapiens&lt;/i&gt; in 1964.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18137</dc:source>
 		<meta property="se:word-count">60710</meta>
